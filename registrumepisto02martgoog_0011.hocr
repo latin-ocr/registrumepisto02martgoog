@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./registrumepisto02martgoog_0011.png"; bbox 0 0 3134 5544; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 497 4515 1137 4629">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 497 4515 1137 4629">
+     <span class='ocr_line' id='line_1_1' title="bbox 754 4515 891 4573; baseline 0.029 -13"><span class='ocrx_word' id='word_1_1' title='bbox 754 4515 851 4562; x_wconf 73' lang='lat' dir='ltr'><strong>Printod</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 860 4522 891 4573; x_wconf 67' lang='lat' dir='ltr'>by</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 497 4559 1137 4629; baseline 0.041 -28"><span class='ocrx_word' id='word_1_3' title='bbox 497 4559 889 4618; x_wconf 63' lang='lat' dir='ltr'>Emnn‹lsvorr1sw00:·r,110r</span> <span class='ocrx_word' id='word_1_4' title='bbox 898 4573 1016 4629; x_wconf 59' lang='lat' dir='ltr'>Malam-&#39;s</span> <span class='ocrx_word' id='word_1_5' title='bbox 1025 4579 1137 4626; x_wconf 70' lang='lat' dir='ltr'>Peintm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 580 4624 1038 4689">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 580 4624 1038 4689">
+     <span class='ocr_line' id='line_1_3' title="bbox 580 4624 1038 4689; baseline 0.044 -23"><span class='ocrx_word' id='word_1_6' title='bbox 580 4624 623 4667; x_wconf 79' lang='lat' dir='ltr'>For</span> <span class='ocrx_word' id='word_1_7' title='bbox 633 4626 682 4670; x_wconf 65' lang='lat' dir='ltr'>Hor</span> <span class='ocrx_word' id='word_1_8' title='bbox 692 4628 809 4683; x_wconf 48' lang='lat' dir='ltr'>uniam</span> <span class='ocrx_word' id='word_1_9' title='bbox 819 4634 951 4689; x_wconf 60' lang='lat' dir='ltr'>Stationem·</span> <span class='ocrx_word' id='word_1_10' title='bbox 960 4640 1038 4686; x_wconf 69' lang='lat' dir='ltr'>Offiee.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1572 5544">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1572 5544">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1572 5544; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1572 5544; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
